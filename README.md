@@ -49,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/alba-romero/leetcode/tree/master/1140-stone-game-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/alba-romero/leetcode/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/alba-romero/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
