@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/alba-romero/leetcode/tree/master/0013-roman-to-integer) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alba-romero/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/alba-romero/leetcode/tree/master/0066-plus-one) |
 | [1140-stone-game-ii](https://github.com/alba-romero/leetcode/tree/master/1140-stone-game-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alba-romero/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/alba-romero/leetcode/tree/master/0191-number-of-1-bits) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alba-romero/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
