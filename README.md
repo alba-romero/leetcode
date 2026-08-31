@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/alba-romero/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alba-romero/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/alba-romero/leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/alba-romero/leetcode/tree/master/0136-single-number) |
 | [1140-stone-game-ii](https://github.com/alba-romero/leetcode/tree/master/1140-stone-game-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alba-romero/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alba-romero/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/alba-romero/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/alba-romero/leetcode/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
