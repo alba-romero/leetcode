@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/alba-romero/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/alba-romero/leetcode/tree/master/0169-majority-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alba-romero/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alba-romero/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/alba-romero/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/alba-romero/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/alba-romero/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/alba-romero/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/alba-romero/leetcode/tree/master/0169-majority-element) |
 | [1140-stone-game-ii](https://github.com/alba-romero/leetcode/tree/master/1140-stone-game-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alba-romero/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alba-romero/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/alba-romero/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/alba-romero/leetcode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/alba-romero/leetcode/tree/master/0169-majority-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alba-romero/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Stack
 |  |
@@ -140,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/alba-romero/leetcode/tree/master/0067-add-binary) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/alba-romero/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/alba-romero/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
